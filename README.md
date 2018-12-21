@@ -31,7 +31,7 @@ Lean los documentos antes de presentar el examen:
 * [Scrum Revealed](./Scrum_Revealed_by_International_Scrum_Institute.pdf)
 
 Si desean hacer Scrum de Scrums:
-* [Nexus (en)](./"NexusGuide v1.1.pdf")
+* [Nexus (en)](./NexusGuide v1.1.pdf)
 
 
 ## Test de prueba.

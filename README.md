@@ -10,7 +10,7 @@ máximo valor.
 
 [Scrum](https://www.scrum.org/)
 
-	
+
 ## Descarga oficial de la guía.
 
 [Guía de Scrum](https://scrumguides.org/)
@@ -19,13 +19,13 @@ máximo valor.
 ## Consulta de la guía en línea.
 
 [Guía de Scrum en línea](https://scrumguides.org/scrum-guide.html)
-	
+
 
 ## Certificación.
 
 Se pueden certificar en el [Scrum Institute](https://www.scrum-institute.org/)
-	
-Lean los documentos antes de presentar el examen: 
+
+Lean los documentos antes de presentar el examen:
 * [La guía de Scrum (es)](./2017-Scrum-Guide-Spanish-European.pdf)
 * [La guía de Scrum (en)](./2017-Scrum-Guide-US.pdf)
 * [Scrum Revealed](./Scrum_Revealed_by_International_Scrum_Institute.pdf)
@@ -48,8 +48,12 @@ Si este material te fue de ayuda puedes donar a mi cuenta de [Paypal](https://pa
 
 ## Datos de contacto.
 
-Mi nombre es [Federico Aguirre](mailto:opencode@microsoft.com).
+Mi nombre es [Federico Aguirre](mailto:federico.aguirre.cardiel@gmail.com).
 
+- [LinkedIn](https://www.linkedin.com/in/federico-aguirre-4199933/)
+- [Progamando chácharas - Blogspot](http://programandochacharas.blogspot.com/)
+- [Twitter](https://twitter.com/FAguirreCardiel)
+- [Github](https://github.com/FedericoAguirre/)
 
 ## Infografía.
 
